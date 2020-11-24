@@ -1,4 +1,4 @@
-Chapter one of clean code to Uncle Bob
+Chapter one of clean code by Uncle Bob
 
 1.  "Working mess is better than nothing" I think I have fallen into that many times in the past where I did write messy code & just figuired if it works then I wouldn't touch it. Of course I knew it was bad practise but laziness gets the best of us.
 

@@ -1,0 +1,32 @@
+Use intention-revealing names, even if that means bigger variable names as long as they are clear you are good.
+
+Avoid disinformation, like using names which vary in small ways
+
+Use pronounceable Names, you can't guess what genymdhms mean or discuss with your colleagues. (it is generate year month day hours minutes seconds aka TimeStamp)
+
+Avoid Encodings:
+    - Things like making phone_string or m_name "to indicate that it is a member" shouldn't be used anymore as your code should already be small.
+    - Most IDEs or Text editors would help with that.
+    - Most compilers nowadays are strong typed, meaning that it would point out if a type doesn't match (most of the times ofc) unlike old days.
+
+
+Avoid single-letter names as they are hard to understand (mental mapping) & they are harder to search.
+
+Classes and objects should have noun or noun phrase names like ("Customer", "WikiPage", "Account").
+
+Methods should have verb or verb phrase names like ("postPayment", "deletePage").
+
+Choose value over entertainment value (Say what you mean. Mean what you say).
+
+Pick one word per concept. ex use one of (fetch, retrieve, get) and stick with it for different classes.
+
+Don't Pun, Avoid using the same word for two purposes
+
+Feel free or in fact it is recommended to use technical names.
+
+Separating solution and problem domain concepts is part of the job of a good programmer and designer. 
+The code that has more to do with problem domain concepts should have names drawn from the problem domain.
+
+Provide a context for your functions/variableso
+
+Shorter names are generally better than longer ones, so long as they are clear. Add no more context to a name than is necessary.

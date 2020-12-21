@@ -1,0 +1,10 @@
+Function length has 2 rules:
+    1 - Funcitons should be small.
+    2 - They should be smaller than that.
+
+Uncle Bob is always stressing about the point that Functions should do One thing. And it should be done right.
+Avoid Flags :(
+Use minimal number of arguments
+Functions should either do something or answer something, but not both.
+Prefer Exceptions to Returning Error Codes
+Duplication is a problem
